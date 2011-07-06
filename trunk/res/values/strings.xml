@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Cork&amp;Orc</string> 
+    <string name="app_name">Cork&amp;Orc</string>
+    <string name="advanced_editing">AdvancedEditing</string>
+	<string name="advanced_editing_landscape">AdvancedEditingLandscape</string>
+	<string name="pinboard_launcher">PinboardLauncher</string>
+	<string name="color_activity">ColorActivity</string>
+	<string name="options_activity">OptionsActivity</string>
+	<string name="backup_activity">BackupActivity</string>
+	
+	<string name="menu_small">Small</string>
+	<string name="menu_medium">Medium</string>
+	<string name="menu_large">Large</string>
+	<string name="menu_back">Back</string>
+	<string name="menu_edit">Edit</string>
+	<string name="menu_delete">Delete</string>
+	
+	<string name="details_done">Done</string>
+	<string name="details_edit">Edit</string>
+	
+	<string name="iev_color">Color:</string>
+	<string name="iev_size">Size:</string>
+	<string name="iev_size_small">SMALL</string>
+	<string name="iev_size_medium">MEDIUM</string>
+	<string name="iev_size_large">LARGE</string>
+	<string name="iev_head_label">Edit Head:</string>
+	<string name="iev_details_label">Edit Details:</string>
+	<string name="iev_create">Create</string>
+	<string name="iev_done">Done</string>
+	<string name="iev_cancel">Cancel</string>
+	
+	<string name="move_move">Move</string>
+	<string name="move_copy">Copy</string>
+	<string name="move_back">Back</string>
+	
+	<string name="keyboard_done">Done</string>
+	<string name="keyboard_clear">Clear</string>
+	
+	<string name="options_copyboard">Copy\nBoard</string>
+	<string name="options_backupmanager">Backup\nManager</string>
+	<string name="options_backupstate">Backup\nState</string>
+	<string name="options_openboard">Open\nBoard</string>
+	<string name="options_addboard">Add\nBoard</string>
+	<string name="options_deleteboard">Delete\nBoard</string>
+	<string name="options_savestate">Save\nState</string>
+	<string name="options_restorestate">Restore\nState</string>
+	<string name="options_deletestate">Delete\nState</string>
+	<string name="options_backtooptions">Back to\nOptions</string> 
+	<string name="options_rename">-RENAME-</string>
+	
+	<string name="backup_backtooptions">Back</string>
+	<string name="backup_savetosd">Save</string>
+	<string name="backup_loadfromsd">Load</string>
+	<string name="backup_deletefile">Delete</string>
+	<string name="backup_info">Backup\nInfo</string>
+	
+	<string name="toast_state_saved">context successfully saved!</string>
+	<string name="toast_pinboard_added">new board added!</string>
+	<string name="toast_sdcard_inactive">Please activate SD Card.</string>
+	<string name="toast_deleted">deleted.</string>
+	<string name="toast_copied">copied.</string>
+	<string name="toast_savedas">saved as</string>
+	<string name="toast_loaded">loaded.</string>
+	<string name="toast_nofileselected">No data selected.</string>
+	<string name="toast_emptyarchive">Note context is empty.</string>
+	<string name="toast_loadingfailure">contains errors.</string>
+</resources>
